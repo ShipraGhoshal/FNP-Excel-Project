@@ -1,5 +1,5 @@
 # Ferns and Petals Sales Analysis Report
-Dashboard link - <a="
+Dashboard link - <a href="https://github.com/ShipraGhoshal/FNP-Excel-Project/blob/main/Fnp%20Sales%20Analysis%20Dashboard.png">FNP Sales AnalysisDashboard </a>
 ## Overview: 
 This enhanced sales analysis delivers a comprehensive view of Ferns and Petals' performance, highlighting revenue trends, product success, and regional opportunities. The data-driven insights presented here offer a roadmap for strategic business expansion and market optimization.
 ## Key Findings:
