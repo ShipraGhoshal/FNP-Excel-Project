@@ -1,5 +1,7 @@
 # Ferns and Petals Sales Analysis Report
-## Overview: This enhanced sales analysis delivers a comprehensive view of Ferns and Petals' performance, highlighting revenue trends, product success, and regional opportunities. The data-driven insights presented here offer a roadmap for strategic business expansion and market optimization.
+Dashboard link - <a="
+## Overview: 
+This enhanced sales analysis delivers a comprehensive view of Ferns and Petals' performance, highlighting revenue trends, product success, and regional opportunities. The data-driven insights presented here offer a roadmap for strategic business expansion and market optimization.
 ## Key Findings:
 -	Revenue Performance: The total revenue for Ferns and Petals remains strong at ₹35,20,984, with an average customer spending of ₹3,520.98. This steady performance reflects a healthy sales pipeline and effective customer engagement.
 - Seasonal Trends: Monthly revenue fluctuations show peaks in February and August, reinforcing the opportunity to leverage these high-demand cycles with targeted marketing and promotions.
